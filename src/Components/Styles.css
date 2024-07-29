@@ -1,0 +1,20 @@
+.bodycenter{
+    margin-top: 10%;
+}
+
+.titlecolor{
+    color: rgb(45, 116, 27);
+}
+
+.descolor{
+    color: rgb(195, 126, 36);
+}
+
+.navbar-collapse {
+    transition: max-height 0.3s ease-in-out;
+    overflow: hidden;
+}
+
+.navbar-collapse.collapsing {
+    max-height: 0;
+}

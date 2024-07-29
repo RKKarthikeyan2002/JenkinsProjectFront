@@ -1,0 +1,18 @@
+/* ViewStock.css */
+.table {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add shadow to the table */
+}
+
+.btn {
+    transition: all 0.3s ease; /* Smooth transition for buttons */
+}
+
+.btn:hover {
+    transform: translateY(-1px); /* Lift button slightly on hover */
+}
+
+@media (max-width: 768px) {
+    .btn-primary {
+        margin-top: 10px; /* Adjust spacing for Add Stock button on smaller screens */
+    }
+}
