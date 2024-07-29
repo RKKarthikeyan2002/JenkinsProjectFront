@@ -1,8 +1,8 @@
 import React from 'react'
-import { Link, useNavigate } from "react-router-dom";
-import Carousel from 'react-bootstrap/Carousel';
+// import { Link, useNavigate } from "react-router-dom";
+// import Carousel from 'react-bootstrap/Carousel';
 import './Styles.css';
-import { BorderAllRounded } from '@mui/icons-material';
+// import { BorderAllRounded } from '@mui/icons-material';
 
 function Home() {
   return (
